@@ -1,0 +1,5 @@
+InvoiceID,ProductID,ProductName,StoreID,StoreLocation,Quantity,UnitPrice,InvoiceDate
+1001,P001,Smartphone S10,S001,Bangalore,2,35000,2024-12-01
+1002,P002,Laptop L15,S002,Hyderabad,1,65000,2024-12-01
+1003,P001,Smartphone S10,S003,Chennai,1,35000,2024-12-02
+1004,P003,Headphones H1,S001,Bangalore,5,2000,2024-12-02
